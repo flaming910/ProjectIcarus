@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e99852906959a324194c3c5f2432a2e0
+timeCreated: 1518463840
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 84
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: kroeger 06_56
+  fontNames:
+  - kroeger 06_56
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
